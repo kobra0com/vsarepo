@@ -1,1 +1,1 @@
-zmena local
+zmena server
